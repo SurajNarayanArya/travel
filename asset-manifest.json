@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel/static/css/main.6cde3bbc.css",
+    "main.js": "/travel/static/js/main.e9d01e3e.js",
+    "static/media/video2.mp4": "/travel/static/media/video2.d6669d21ca1e5c18305d.mp4",
+    "static/media/video.mp4": "/travel/static/media/video.cbf0d02f24d5afc5c6f1.mp4",
+    "static/media/img(4).jpg": "/travel/static/media/img(4).26941ccc03bfcc5badb9.jpg",
+    "static/media/img(5).jpg": "/travel/static/media/img(5).e38c43bbe6f40c2b4c8f.jpg",
+    "static/media/img(2).jpg": "/travel/static/media/img(2).d262fa776c9be3d3db19.jpg",
+    "static/media/img(3).jpg": "/travel/static/media/img(3).a50d33fcc6a64bfd09bc.jpg",
+    "static/media/img(6).jpg": "/travel/static/media/img(6).f1c98e634eaa3297f8db.jpg",
+    "static/media/img(1).jpg": "/travel/static/media/img(1).f6b9c70282f38a5295fc.jpg",
+    "index.html": "/travel/index.html",
+    "main.6cde3bbc.css.map": "/travel/static/css/main.6cde3bbc.css.map",
+    "main.e9d01e3e.js.map": "/travel/static/js/main.e9d01e3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cde3bbc.css",
+    "static/js/main.e9d01e3e.js"
+  ]
+}
